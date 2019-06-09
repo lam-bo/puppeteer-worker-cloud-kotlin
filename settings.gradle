@@ -1,0 +1,2 @@
+rootProject.name = 'puppeteer-worker-cloud-kotlin'
+include 'puppeteer-worker-lambda'
